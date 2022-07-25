@@ -7811,7 +7811,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background: url('../assets/dublin.svg') !important ;
+  background: url('../assets/dublin.svg') no-repeat center center fixed !important ;
   /* background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
 }
 
